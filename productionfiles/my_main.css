@@ -17,11 +17,11 @@ body {
   }
   
   .site-header .navbar-nav .nav-link {
-    color: #bdd4be;
+    color: #7b957c;
   }
   
   .site-header .navbar-nav .nav-link:hover {
-    color: #ffffff;
+    color: #d8fbcb;
   }
   
   .site-header .navbar-nav .nav-link.active {
